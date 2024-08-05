@@ -4,7 +4,8 @@
 <a href="https://dotfyle.com/Naadiyaar/nvim-config"><img src="https://dotfyle.com/Naadiyaar/nvim-config/badges/leaderkey?style=flat" /></a>
 <a href="https://dotfyle.com/Naadiyaar/nvim-config"><img src="https://dotfyle.com/Naadiyaar/nvim-config/badges/plugin-manager?style=flat" /></a>
 
-
+I use this *minimal* setup for **Java** development and editing markdown.
+also it's pretty much a work in progress
 ## Install Instructions
 
  > Install requires Neovim 0.9+. Always review the code before installing a configuration.
